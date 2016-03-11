@@ -1,6 +1,0 @@
-c:\users\khorotiano\documents\visual studio 2015\Projects\CW_CSharp_Complete The Pattern No1\CW_CSharp_Complete The Pattern No1\bin\Debug\CW_CSharp_Complete The Pattern No1.exe.config
-c:\users\khorotiano\documents\visual studio 2015\Projects\CW_CSharp_Complete The Pattern No1\CW_CSharp_Complete The Pattern No1\bin\Debug\CW_CSharp_Complete The Pattern No1.exe
-c:\users\khorotiano\documents\visual studio 2015\Projects\CW_CSharp_Complete The Pattern No1\CW_CSharp_Complete The Pattern No1\bin\Debug\CW_CSharp_Complete The Pattern No1.pdb
-c:\users\khorotiano\documents\visual studio 2015\Projects\CW_CSharp_Complete The Pattern No1\CW_CSharp_Complete The Pattern No1\obj\Debug\CW_CSharp_Complete The Pattern No1.csprojResolveAssemblyReference.cache
-c:\users\khorotiano\documents\visual studio 2015\Projects\CW_CSharp_Complete The Pattern No1\CW_CSharp_Complete The Pattern No1\obj\Debug\CW_CSharp_Complete The Pattern No1.exe
-c:\users\khorotiano\documents\visual studio 2015\Projects\CW_CSharp_Complete The Pattern No1\CW_CSharp_Complete The Pattern No1\obj\Debug\CW_CSharp_Complete The Pattern No1.pdb
